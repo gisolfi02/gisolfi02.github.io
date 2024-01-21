@@ -492,7 +492,7 @@ div.checkboxes > label > input {
 }
 .four-column-summary {
     display: grid;
-    grid-template-columns: minmax(10%, max-content) minmax(15%, max-content) minmax(15%, max-content) minmax(15%, auto);
+    grid-template-columns: minmax(30%, max-content) minmax(70%, max-content);
 }
 @media screen and (max-width: 1000px) {
     .four-column-summary {
