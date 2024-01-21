@@ -1,0 +1,14 @@
+module:com.example.medicare
+com.example.medicare
+DataTier.MediCare
+DataTier.MediCare.Medico
+DataTier.MediCare.Ospedale
+DataTier.MediCare.Prenotazione
+DataTier.MediCare.Reparto
+DataTier.MediCare.Utente
+LogicTier.MediCare.CercaOspedali
+LogicTier.MediCare.Chatbot
+LogicTier.MediCare.Login
+LogicTier.MediCare.Prenotazione
+LogicTier.MediCare.Registrazione
+test
