@@ -6,6 +6,7 @@ DataTier.MediCare.Ospedale
 DataTier.MediCare.Prenotazione
 DataTier.MediCare.Reparto
 DataTier.MediCare.Utente
+LogicTier.MediCare.AreaPersonale
 LogicTier.MediCare.CercaOspedali
 LogicTier.MediCare.Chatbot
 LogicTier.MediCare.Login
